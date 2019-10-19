@@ -1,3 +1,5 @@
+//Copyright Brandon Norsworthy 2019
+
 package scripts;
 
 import org.tribot.api.General;
